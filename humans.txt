@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Kiho Suh kihosuh@gmail.com
 
 # THANKS
 
