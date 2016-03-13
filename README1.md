@@ -16,5 +16,7 @@ This is a simple project, deployment can be on any web server or even local file
 
 ## How To Contribute
 
+Please fork this repository and then issue pull Requests for review.
+
 ## Copyrihgt
 2014 Git Training
